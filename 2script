@@ -1,0 +1,5 @@
+x=10
+y=20
+sum=`expr $x + $y`
+echo "$x and $y is equal to $sum"
+echo "hello"
